@@ -3,7 +3,7 @@
 <br><br>
 <pre>
     💼 Intern Service Discovery Tool for Government software 
-    💻 PHP, Docker, JAVA, JavaScript, React, C#, R, Python, .NET, TALL Stack, Laravel
+    💻 PHP, Docker, JAVA, JavaScript, React, C#, R, Python, .NET, TALL Stack, Laravel, TypeScript, Vue
     📖 Microservices
 </pre>
 <br><br>
